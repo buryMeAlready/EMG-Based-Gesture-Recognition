@@ -5,3 +5,5 @@ Electromyography (EMG) records electrical signals generated during muscle contra
 
 This work proposes a hierarchical two-level model to enhance robustness. The first level identifies whether the muscle is fresh or fatigued, while the second employs separate classifiers trained for each condition, ensuring adaptive and accurate gesture recognition. A single-channel EMG sensor is used to minimize cost and complexity, with features extracted from time and frequency domains and classifies gestures efficiently. The proposed system aims to deliver a low-cost, fatigue-aware EMG-based gesture recognition solution for real-time prosthetic and assistive technology applications.
 The objectives of the project also involves finding the best electrode placement for richer data and evaluating the different machine learning models for maximum accuracy.
+
+
