@@ -1,5 +1,5 @@
-# final_project
-EMG based hand gesture recognition with adaptation to fatigue
+# EMG based hand gesture recognition with adaptation to fatigue
+
 
 Electromyography (EMG) records electrical signals generated during muscle contractions, enabling recognition of hand and finger gestures for applications such as prosthetic control, rehabilitation, and virtual interfaces. However, factors like subject variation, forearm position, and muscle fatigue affect recognition accuracy.
 
